@@ -1,0 +1,21 @@
+{
+    "name": "Qadr Mebel",
+    "short_name": "QadrMebel",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1D1D1F",
+    "description": "O'zbekistondagi premium mebel showroomi",
+    "icons": [
+        {
+            "src": "rasmlar/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "rasmlar/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
